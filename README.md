@@ -38,14 +38,28 @@ Coming from a **farming background**, I enjoy building **real-world applications
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 ![Servlets](https://img.shields.io/badge/Servlets-2C2255?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
 
 ### 🗄️ Databases & ⚙️ Tools
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
 
 ---
+## 🧠 Soft Skills
+- Problem Solving
+- Quick Learner
+- Team Player
+
 
 ## 📌 Featured Projects
 
@@ -75,12 +89,13 @@ Coming from a **farming background**, I enjoy building **real-world applications
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsVaishnav&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsVaishnav&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsVaishnav&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsVaishnav&theme=react&hide_border=true" height="165"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsVaishnav&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsVaishnav&theme=react"/>
 </p>
 
 ⭐ *Open to internships, projects & learning opportunities*
