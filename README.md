@@ -64,7 +64,7 @@
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/ItsVaishnav
-- 📧 Email: *your-email@example.com*
+- 📧 Email: *your-vaishnavghadge99@gmail.com*
 - 💬 Always open to collaboration & learning
 
 ---
